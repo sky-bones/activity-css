@@ -1,0 +1,46 @@
+/* This is a CSS document */
+
+/*
+
+Selector {
+    property: value;
+    property: value;
+    property: value
+}
+
+Each selector is paired with and styles and element. For example, 
+
+html {} is paired with and stlyes <html> 
+
+*/
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem; /* 1 rem = 16px */
+    font-weight: normal;
+}
+
+
+p {font-size: .5rem; /* 1 rem = 16px */
+   font-weight: normal;    
+}
+
+p { font-size: 1rem;
+    color: #656814
+        
+}
+
+body {
+    background-color: #f4e5b7;
+}
+
+ul {
+    color: #aa0d27;
+}
+
+ul strong {
+    color: #b7c5f4;
+    
+}
+    
+
